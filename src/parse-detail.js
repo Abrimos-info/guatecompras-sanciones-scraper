@@ -37,9 +37,10 @@ function parseDetailPage(html) {
     if (fieldName === undefined || fieldName === null) return;
     const rawValue = $(tds[1]).text().trim();
     const value = rawValue === '[--No Especificado--]' ? null : rawValue;
-    result[fieldName] = value !== null && DATE_FIELDS.has(fieldName)
-      ? parseGuatemalaDate(value)
-      : value;
+    const finalValue = fieldName === 'status' && value !== null ? value.toUpperCase() : value;
+    result[fieldName] = finalValue !== null && DATE_FIELDS.has(fieldName)
+      ? parseGuatemalaDate(finalValue)
+      : finalValue;
   });
 
   return result;

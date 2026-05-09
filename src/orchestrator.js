@@ -15,7 +15,7 @@ async function scrapeSupplier(id, { delay = false } = {}) {
     const { detail_url, ...base } = sanction;
     let detail = { detail_available: false };
     try {
-      if (delay) await randomDelay();
+      await randomDelay();
       const detailHtml = await fetchPage(detail_url);
       detail = parseDetailPage(detailHtml);
     } catch {
