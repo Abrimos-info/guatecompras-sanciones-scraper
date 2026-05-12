@@ -26,12 +26,20 @@ describe('appendRecord + scanScrapedIds', () => {
   });
 
   test('appends and reads back supplier records', async () => {
-    const record = { supplier_id: 7200001, nit: '123', supplier_name: 'TEST', current_status: 'ACTIVE', sanctions: [] };
+    // supplier_id is a string in real output (parse-main returns String(supplierId))
+    const record = { supplier_id: '7200001', nit: '123', supplier_name: 'TEST', current_status: 'ACTIVE', sanctions: [] };
     appendRecord(bucketPath(7200001, tmpDir), record);
 
     const scraped = await scanScrapedIds(tmpDir, 7200000, 7209999);
     expect(scraped.has(7200001)).toBe(true);
     expect(scraped.has(7200002)).toBe(false);
+  });
+
+  test('matches string supplier_id from file against numeric loop id', async () => {
+    // Regression: Set uses strict equality so "7200003" !== 7200003 without normalisation
+    appendRecord(bucketPath(7200003, tmpDir), { supplier_id: '7200003', exists: false });
+    const scraped = await scanScrapedIds(tmpDir, 7200000, 7209999);
+    expect(scraped.has(7200003)).toBe(true); // numeric lookup must work
   });
 
   test('tracks non-existent supplier sentinels', async () => {

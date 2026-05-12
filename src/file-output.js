@@ -37,7 +37,7 @@ async function scanScrapedIds(dir, start, end) {
       if (!trimmed) continue;
       try {
         const obj = JSON.parse(trimmed);
-        if (obj.supplier_id != null) scraped.add(obj.supplier_id);
+        if (obj.supplier_id != null) scraped.add(Number(obj.supplier_id));
       } catch {
         // skip malformed lines
       }
