@@ -12,7 +12,7 @@ function parseMainPage(html, supplierId) {
   }
 
   const supplierText = supplierLink.text().trim();
-  const nitMatch = supplierText.match(/^\((\d+)\)\s*-\s*(.+)$/);
+  const nitMatch = supplierText.match(/^\((\d+K?)\)\s*-\s*(.+)$/);
   const nit = nitMatch ? nitMatch[1] : null;
   const supplierName = nitMatch ? nitMatch[2].trim() : supplierText;
 

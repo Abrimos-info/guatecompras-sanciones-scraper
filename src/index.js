@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-const { scrapeSupplier, scrapeRange } = require('./orchestrator');
+const { scrapeSupplier, scrapeRange, scrapeRangeToDir } = require('./orchestrator');
 
 const args = process.argv.slice(2);
 
@@ -34,11 +34,25 @@ if (args.length === 1) {
     process.exit(1);
   });
 
+} else if (args.length === 3) {
+  const start = parseInt(args[0], 10);
+  const end = parseInt(args[1], 10);
+  const dir = args[2];
+  if (!isValidId(start) || !isValidId(end) || start > end) {
+    process.stderr.write('Error: provide two valid IDs where start <= end\n');
+    process.exit(1);
+  }
+  scrapeRangeToDir(start, end, dir).catch(err => {
+    process.stderr.write(`Error: ${err.message}\n`);
+    process.exit(1);
+  });
+
 } else {
   process.stderr.write(
     'Usage:\n' +
     '  node src/index.js <id>\n' +
-    '  node src/index.js <start> <end>\n'
+    '  node src/index.js <start> <end>\n' +
+    '  node src/index.js <start> <end> <output-dir>\n'
   );
   process.exit(1);
 }

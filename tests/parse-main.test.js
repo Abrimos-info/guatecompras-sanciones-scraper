@@ -91,3 +91,22 @@ describe('parseMainPage — non-existent supplier', () => {
     expect(parseMainPage(fixture('main-no-supplier.html'), 9999999)).toBeNull();
   });
 });
+
+describe('parseMainPage — NIT ending in K', () => {
+  const html = `<html><body>
+    <a id="MasterGC_ContentBlockHolder_lnkNombreProv">(10296209K) - RAMIREZ,GUTIERREZ,,NANCY,MARIA JOSE</a>
+    <table><tr><td class="EtiquetaForm2">Situación actual:</td><td>Habilitado</td></tr></table>
+    <span id="MasterGC_ContentBlockHolder_lblError" class="mensajePagina3"></span>
+  </body></html>`;
+
+  let result;
+  beforeAll(() => { result = parseMainPage(html, 10296209); });
+
+  test('extracts NIT including trailing K', () => {
+    expect(result.nit).toBe('10296209K');
+  });
+
+  test('extracts supplier name without NIT prefix', () => {
+    expect(result.supplier_name).toBe('RAMIREZ,GUTIERREZ,,NANCY,MARIA JOSE');
+  });
+});

@@ -1,6 +1,14 @@
+const fs = require('fs');
+const path = require('path');
 const { fetchPage, randomDelay } = require('./scraper');
 const { parseMainPage } = require('./parse-main');
 const { parseDetailPage } = require('./parse-detail');
+const { bucketPath, appendRecord, scanScrapedIds } = require('./file-output');
+
+function log(msg) {
+  const ts = new Date().toISOString().replace('T', ' ').slice(0, 19);
+  process.stdout.write(`[${ts}] ${msg}\n`);
+}
 
 const MAIN_URL = 'https://www.guatecompras.gt/Inhabilitaciones/consultaDetProveeInhab.aspx?inhab=1&iTipo=16&rqp=10&lprv=';
 
@@ -44,4 +52,46 @@ async function scrapeRange(start, end) {
   }
 }
 
-module.exports = { scrapeSupplier, scrapeRange };
+async function scrapeRangeToDir(start, end, dir) {
+  fs.mkdirSync(dir, { recursive: true });
+
+  log(`Scanning ${dir} for already-scraped IDs in range ${start}–${end}...`);
+  const scraped = await scanScrapedIds(dir, start, end);
+  const skipCount = [...scraped].filter(id => id >= start && id <= end).length;
+  log(`Found ${skipCount} already-scraped ID(s) in range — will skip them`);
+
+  const total = end - start + 1;
+  let done = 0;
+
+  for (let id = start; id <= end; id++) {
+    done++;
+    const progress = `[${done}/${total}] ID ${id}`;
+
+    if (scraped.has(id)) {
+      log(`${progress}: already scraped, skipping`);
+      continue;
+    }
+
+    log(`${progress}: fetching...`);
+    try {
+      const result = await scrapeSupplier(id, { delay: true });
+      const file = bucketPath(id, dir);
+
+      if (result) {
+        appendRecord(file, result);
+        log(`${progress}: "${result.supplier_name}" (${result.sanctions.length} sanctions) → ${path.basename(file)}`);
+      } else {
+        appendRecord(file, { supplier_id: id, exists: false });
+        log(`${progress}: no supplier → tracked in ${path.basename(file)}`);
+      }
+    } catch (err) {
+      const status = err.response?.status;
+      const blockHint = (status === 429 || status === 503) ? ' — possible block' : '';
+      log(`${progress}: ERROR${status ? ` HTTP ${status}` : ''}: ${err.message}${blockHint}`);
+    }
+  }
+
+  log(`Done. Scraped ${done - skipCount} new IDs out of ${total} requested.`);
+}
+
+module.exports = { scrapeSupplier, scrapeRange, scrapeRangeToDir };
