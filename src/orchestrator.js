@@ -10,6 +10,11 @@ function log(msg) {
   process.stdout.write(`[${ts}] ${msg}\n`);
 }
 
+function logStart(msg) {
+  const ts = new Date().toISOString().replace('T', ' ').slice(0, 19);
+  process.stdout.write(`[${ts}] ${msg}`);
+}
+
 const MAIN_URL = 'https://www.guatecompras.gt/Inhabilitaciones/consultaDetProveeInhab.aspx?inhab=1&iTipo=16&rqp=10&lprv=';
 
 async function scrapeSupplier(id, { delay = false } = {}) {
@@ -72,22 +77,22 @@ async function scrapeRangeToDir(start, end, dir) {
       continue;
     }
 
-    log(`${progress}: fetching...`);
+    logStart(`${progress}: `);
     try {
       const result = await scrapeSupplier(id, { delay: true });
       const file = bucketPath(id, dir);
 
       if (result) {
         appendRecord(file, result);
-        log(`${progress}: "${result.supplier_name}" (${result.sanctions.length} sanctions) → ${path.basename(file)}`);
+        process.stdout.write(`"${result.supplier_name}" (${result.sanctions.length} sanctions) → ${path.basename(file)}\n`);
       } else {
         appendRecord(file, { supplier_id: id, exists: false });
-        log(`${progress}: no supplier → tracked in ${path.basename(file)}`);
+        process.stdout.write(`no supplier → tracked in ${path.basename(file)}\n`);
       }
     } catch (err) {
       const status = err.response?.status;
       const blockHint = (status === 429 || status === 503) ? ' — possible block' : '';
-      log(`${progress}: ERROR${status ? ` HTTP ${status}` : ''}: ${err.message}${blockHint}`);
+      process.stdout.write(`ERROR${status ? ` HTTP ${status}` : ''}: ${err.message}${blockHint}\n`);
     }
   }
 
