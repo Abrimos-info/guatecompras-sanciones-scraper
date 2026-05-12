@@ -43,6 +43,7 @@ async function scrapeSupplier(id, { delay = false } = {}) {
     supplier_name: data.supplier_name,
     current_status: data.current_status,
     sanctions: enrichedSanctions,
+    scraped_at: new Date().toISOString().replace('T', ' ').slice(0, 19),
   };
 }
 
