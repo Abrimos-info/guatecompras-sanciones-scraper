@@ -27,22 +27,31 @@ Fetches sanctions for one supplier ID and prints a single JSON object to stdout.
 node src/index.js 491
 ```
 
-### Range of suppliers
+### Range of suppliers (stdout)
 
 ```bash
 node src/index.js <start> <end>
 ```
 
-Fetches each ID in the range sequentially, with a random 1–3 second delay between requests. Prints one JSON object per found supplier. IDs that do not exist or fail are silently skipped (a warning is written to stderr).
+Fetches each ID in the range sequentially, with a random 1–2 second delay between requests. Prints one JSON object per found supplier to stdout. IDs that do not exist or fail are silently skipped (a warning is written to stderr).
 
 ```bash
 node src/index.js 1 1000
+node src/index.js 1 9999999 > sanctions.ndjson
 ```
 
-### Redirect output to a file
+### Range of suppliers (file output)
 
 ```bash
-node src/index.js 1 9999999 > sanctions.ndjson
+node src/index.js <start> <end> <output-dir>
+```
+
+Same as the range mode but writes records to NDJSON files in `<output-dir>` instead of stdout. IDs are grouped into buckets of 10,000: supplier ID 491 goes into `0-9999.json`, ID 12345 into `10000-19999.json`, and so on.
+
+If the run is interrupted, already-scraped IDs are detected on restart and skipped automatically.
+
+```bash
+node src/index.js 1 99999999 data/
 ```
 
 ## Output format
@@ -70,7 +79,8 @@ Each line of output is a JSON object (NDJSON) with this structure:
       "nog": null,
       "end_date": "2022-11-04"
     }
-  ]
+  ],
+  "scraped_at": "2026-05-12 14:30:45"
 }
 ```
 
@@ -83,6 +93,7 @@ Fields:
 | `supplier_name` | Supplier's registered name |
 | `current_status` | Current registration status |
 | `sanctions` | Array of sanction records (empty if none) |
+| `scraped_at` | Timestamp when the record was fetched (`YYYY-MM-DD HH:MM:SS`) |
 | `sanctions[].start_date` | Sanction start date (ISO 8601) |
 | `sanctions[].duration` | Sanction end date (ISO 8601) or a text description |
 | `sanctions[].reason` | Reason for the sanction |
