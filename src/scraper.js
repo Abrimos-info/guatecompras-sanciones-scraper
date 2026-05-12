@@ -19,7 +19,7 @@ async function fetchPage(url) {
 }
 
 function randomDelay() {
-  const ms = 1000 + Math.random() * 2000;
+  const ms = 1000 + Math.random() * 1000;
   return new Promise(resolve => setTimeout(resolve, ms));
 }
 
