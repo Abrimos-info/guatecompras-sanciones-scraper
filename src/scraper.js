@@ -51,7 +51,6 @@ async function warmUp() {
 }
 
 async function fetchPage(url) {
-  await warmUp();
   const response = await client.get(url, {
     headers: HEADERS,
     timeout: 30000,
