@@ -39,8 +39,15 @@ let warmedUp = false;
 
 async function warmUp() {
   if (warmedUp) return;
-  await client.get(WARMUP_URL, { headers: HEADERS, timeout: 30000, ...(PROXY && { proxy: PROXY }) });
-  warmedUp = true;
+  process.stderr.write(`[warmup] GET ${WARMUP_URL} via ${PROXY ? PROXY.host : 'direct'}...\n`);
+  try {
+    const res = await client.get(WARMUP_URL, { headers: HEADERS, timeout: 30000, ...(PROXY && { proxy: PROXY }) });
+    process.stderr.write(`[warmup] ${res.status} — cookies: ${jar.toJSON().cookies.length}\n`);
+    warmedUp = true;
+  } catch (err) {
+    process.stderr.write(`[warmup] FAILED ${err.response?.status ?? err.message}\n`);
+    throw err;
+  }
 }
 
 async function fetchPage(url) {
