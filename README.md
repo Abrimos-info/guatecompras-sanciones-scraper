@@ -13,6 +13,24 @@ Scrapes supplier sanction records from the [Guatecompras](https://www.guatecompr
 npm install
 ```
 
+## Configuration
+
+The scraper works out of the box with no configuration. If the target site is unreachable from your machine (e.g. your server is in a different country), you can route requests through a proxy.
+
+Copy `.env.example` to `.env` and fill in your proxy URL:
+
+```bash
+cp .env.example .env
+```
+
+```
+PROXY_URL=http://username:password@host:port
+```
+
+If `.env` is absent or `PROXY_URL` is not set, the scraper connects directly.
+
+> **Note:** Datacenter proxy IPs are commonly blocked by the site. A residential or ISP proxy is recommended.
+
 ## Usage
 
 ### Single supplier
