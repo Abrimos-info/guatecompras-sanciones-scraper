@@ -1,6 +1,4 @@
 const axios = require('axios');
-const { wrapper } = require('axios-cookiejar-support');
-const { CookieJar } = require('tough-cookie');
 
 function buildProxy() {
   const raw = process.env.PROXY_URL;
@@ -31,27 +29,8 @@ const HEADERS = {
   'Sec-CH-UA-Platform': '"Windows"',
 };
 
-const jar = new CookieJar();
-const client = wrapper(axios.create({ jar }));
-
-const WARMUP_URL = 'https://www.guatecompras.gt/proveedores/busquedaProvee.aspx';
-let warmedUp = false;
-
-async function warmUp() {
-  if (warmedUp) return;
-  process.stderr.write(`[warmup] GET ${WARMUP_URL} via ${PROXY ? PROXY.host : 'direct'}...\n`);
-  try {
-    const res = await client.get(WARMUP_URL, { headers: HEADERS, timeout: 30000, ...(PROXY && { proxy: PROXY }) });
-    process.stderr.write(`[warmup] ${res.status} — cookies: ${jar.toJSON().cookies.length}\n`);
-    warmedUp = true;
-  } catch (err) {
-    process.stderr.write(`[warmup] FAILED ${err.response?.status ?? err.message}\n`);
-    throw err;
-  }
-}
-
 async function fetchPage(url) {
-  const response = await client.get(url, {
+  const response = await axios.get(url, {
     headers: HEADERS,
     timeout: 30000,
     ...(PROXY && { proxy: PROXY }),
