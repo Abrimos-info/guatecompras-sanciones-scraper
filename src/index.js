@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-require('dotenv').config({ quiet: true });
+require('dotenv').config({ path: require('path').join(__dirname, '..', '.env'), quiet: true });
 const { scrapeSupplier, scrapeRange, scrapeRangeToDir } = require('./orchestrator');
 
 const args = process.argv.slice(2);
