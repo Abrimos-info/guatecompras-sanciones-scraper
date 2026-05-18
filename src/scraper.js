@@ -30,12 +30,28 @@ const HEADERS = {
 };
 
 async function fetchPage(url) {
-  const response = await axios.get(url, {
-    headers: HEADERS,
-    timeout: 30000,
-    ...(PROXY && { proxy: PROXY }),
-  });
-  return response.data;
+  try {
+    const response = await axios.get(url, {
+      headers: HEADERS,
+      timeout: 30000,
+      ...(PROXY && { proxy: PROXY }),
+    });
+    return response.data;
+  } catch (err) {
+    // Surface body of error responses (BrightData explains 407 in the body,
+    // e.g. "Auth Failed (code: ip_forbidden)" or "no_balance"). Without this
+    // the caller only sees axios's generic "Request failed with status code X".
+    const status = err.response && err.response.status;
+    const body = err.response && err.response.data;
+    const bodyText = body == null
+      ? ""
+      : (typeof body === "string" ? body : JSON.stringify(body)).slice(0, 500);
+    const proxyTag = PROXY ? `${PROXY.host}:${PROXY.port}` : "(direct)";
+    process.stderr.write(
+      `[scraper] fetch failed: url=${url} status=${status || "(none)"} proxy=${proxyTag}${bodyText ? ` body=${bodyText.replace(/\s+/g, " ")}` : ""}\n`,
+    );
+    throw err;
+  }
 }
 
 function randomDelay() {
