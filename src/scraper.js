@@ -33,7 +33,7 @@ async function fetchPage(url) {
   try {
     const response = await axios.get(url, {
       headers: HEADERS,
-      timeout: 30000,
+      timeout: 60000,
       ...(PROXY && { proxy: PROXY }),
     });
     return response.data;
