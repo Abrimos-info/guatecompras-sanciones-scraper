@@ -5096,7 +5096,7 @@
 {"supplier_id":"8905095","nit":"163627371","supplier_name":"FRANCISCO,CRISTOBAL,,JUANA,DOMINGA","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-14 22:20:55"}
 {"supplier_id":"8905096","nit":"110320530","supplier_name":"BÁMACA,LÓPEZ,,GLORIA,CONSUELO","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-14 22:20:57"}
 {"supplier_id":"8905097","nit":"109370260","supplier_name":"JOCOL,CHAJ,,DAVID,ENRIQUE","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-14 22:21:00"}
-{"supplier_id":"8905098","nit":null,"supplier_name":"(170-PE191792) - JAVIER MEDRANO BALLESTEROS","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-14 22:21:01"}
+{"supplier_id":"8905098","nit":"170-PE191792","supplier_name":"JAVIER MEDRANO BALLESTEROS","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-14 22:21:01"}
 {"supplier_id":"8905099","nit":"101776330","supplier_name":"VELÁSQUEZ,PÉREZ,,YUVITZA,MARISOL","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-14 22:21:03"}
 {"supplier_id":"8905100","nit":"283333839","supplier_name":"RAYMUNDO,MARCOS,,SULMY,NOEMÍ","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-14 22:21:06"}
 {"supplier_id":"8905101","nit":"223692794","supplier_name":"SOJUEL,RAVINAL,,ISMAEL,JONATAN","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-14 22:21:07"}
@@ -9293,7 +9293,7 @@
 {"supplier_id":"8909292","nit":"316511617","supplier_name":"AVILA,LÓPEZ,,MAYORLI,ANAHÍ","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-15 00:51:43"}
 {"supplier_id":"8909293","nit":"108366340","supplier_name":"FIGUEROA,TREJO,,KEVIN,JOSÉ","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-15 00:51:46"}
 {"supplier_id":"8909294","nit":"108411591","supplier_name":"GUERRA,MELGAR,,DELFIDIO,DOUGLAS JOSÉ","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-15 00:51:48"}
-{"supplier_id":"8909295","nit":null,"supplier_name":"(484-N09683837) - ERIC MOISES GÁLVEZ SANCHEZ","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-15 00:51:49"}
+{"supplier_id":"8909295","nit":"484-N09683837","supplier_name":"ERIC MOISES GÁLVEZ SANCHEZ","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-15 00:51:49"}
 {"supplier_id":"8909296","nit":"117241369","supplier_name":"PALMA,OSORIO,,DANIEL,DIORKAEF","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-15 00:51:52"}
 {"supplier_id":"8909297","nit":"104731613","supplier_name":"VELÁSQUEZ,LÓPEZ,,MIRIAN,JUDITH","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-15 00:51:54"}
 {"supplier_id":"8909298","nit":"106846248","supplier_name":"TÚN,ALVARADO,,MARÍA,CASILDA","current_status":"Habilitado","sanctions":[],"scraped_at":"2026-05-15 00:51:55"}

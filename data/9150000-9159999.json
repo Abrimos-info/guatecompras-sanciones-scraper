@@ -6923,16 +6923,16 @@
 {"supplier_id":"9156922","nit":"107850648","supplier_name":"MALDONADO,PEREZ,,JULIAN,","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-17 17:53:37"}
 {"supplier_id":"9156923","nit":"236777041","supplier_name":"MEJIA,PUAC,,MANUEL,","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-17 17:53:40"}
 {"supplier_id":"9156924","nit":"111376874","supplier_name":"RAMOS,FLORIÁN,,KEREN,JEMIMA","current_status":"Habilitado","sanctions":[],"scraped_at":"2026-05-17 17:53:42"}
-{"supplier_id":"9156925","nit":null,"supplier_name":"(484-NO6200790) - LUIS ANGEL ESCOBEDO SILVA","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-17 17:53:44"}
+{"supplier_id":"9156925","nit":"484-NO6200790","supplier_name":"LUIS ANGEL ESCOBEDO SILVA","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-17 17:53:44"}
 {"supplier_id":"9156926","nit":"327916311","supplier_name":"SANTIZO,CALDERÓN,,YOSELIN,MISHEL","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-17 17:53:47"}
 {"supplier_id":"9156927","nit":"228790484","supplier_name":"ESTÉVEZ,YOL,,MAINOR,MANUEL","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-17 17:53:48"}
 {"supplier_id":"9156928","nit":"317401831","supplier_name":"PALACIOS,PÉREZ,,MARITZA,AZUCENA","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-17 17:53:51"}
-{"supplier_id":"9156929","nit":null,"supplier_name":"(484-N06200790) - LUIS ANGEL ESCOBEDO SILVA","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-17 17:53:52"}
+{"supplier_id":"9156929","nit":"484-N06200790","supplier_name":"LUIS ANGEL ESCOBEDO SILVA","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-17 17:53:52"}
 {"supplier_id":"9156930","nit":"326126635","supplier_name":"CHANCHAVAC,SUY,,LILIAN,JEANNETH","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-17 17:53:54"}
 {"supplier_id":"9156931","nit":"106386808","supplier_name":"SOLARES,NAVICHOQUE,,KATERYN,YULISA","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-17 17:53:56"}
 {"supplier_id":"9156932","nit":"115288988","supplier_name":"HERNÁNDEZ,ROSALES,,JEFFERSON,ESAÚ","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-17 17:53:58"}
 {"supplier_id":"9156933","nit":"110322738","supplier_name":"HARRIZÓN,SAUSEDA,,GUALTER,NOÉ","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-17 17:54:00"}
-{"supplier_id":"9156934","nit":null,"supplier_name":"(484-G42418670) - JUAN FABIAN VALENZUELA ESTRADA","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-17 17:54:02"}
+{"supplier_id":"9156934","nit":"484-G42418670","supplier_name":"JUAN FABIAN VALENZUELA ESTRADA","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-17 17:54:02"}
 {"supplier_id":"9156935","nit":"230030378","supplier_name":"PELICÓ,CALEL,,CATARINA,","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-17 17:54:03"}
 {"supplier_id":"9156936","nit":"310290910","supplier_name":"MEJÍA,XÓN,,JOSÉ,","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-17 17:54:05"}
 {"supplier_id":"9156937","nit":"301523630","supplier_name":"JUÁREZ,YAC,,JORGE,EDUARDO","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-17 17:54:07"}
@@ -7479,7 +7479,7 @@
 {"supplier_id":"9157478","nit":"92853595","supplier_name":"MENDOZA,GOMEZ,,EDGAR,ESTUARDO","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-17 18:13:07"}
 {"supplier_id":"9157479","nit":"111626943","supplier_name":"ARRIAGA,MATIAS,,JANELYN,SAMANTHA","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-17 18:13:10"}
 {"supplier_id":"9157480","nit":"338603964","supplier_name":"TRIGUEROS,JIMÉNEZ,,RUTH,NOHEMI","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-17 18:13:13"}
-{"supplier_id":"9157481","nit":null,"supplier_name":"(558-CC02618599) - ELISHA LASHAWN ULLITH HODGSON","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-17 18:13:16"}
+{"supplier_id":"9157481","nit":"558-CC02618599","supplier_name":"ELISHA LASHAWN ULLITH HODGSON","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-17 18:13:16"}
 {"supplier_id":"9157482","nit":"100983782","supplier_name":"VALENZUELA,CRUZ,,KIMBERLIN,YANIRA","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-17 18:13:18"}
 {"supplier_id":"9157483","nit":"372289541","supplier_name":"MUÑOZ,VILLAGRÁN,,ARIANA,ISABEL","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-17 18:13:20"}
 {"supplier_id":"9157484","nit":"325247315","supplier_name":"ARAUS,MEJIA,,DOUGLAS,DANILO","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-17 18:13:21"}

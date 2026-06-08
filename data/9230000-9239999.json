@@ -4346,7 +4346,7 @@
 {"supplier_id":"9234353","nit":"117488569","supplier_name":"MATÍAS,MIRANDA,,KARINA,AMALIA","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-19 17:19:15"}
 {"supplier_id":"9234354","nit":"297147226","supplier_name":"GARCÍA,AGUILAR,,ROGELIO,","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-19 17:19:20"}
 {"supplier_id":"9234355","nit":"114308624","supplier_name":"BÁ,POOU,,DELIA,MARGARITA","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-19 17:19:23"}
-{"supplier_id":"9234356","nit":null,"supplier_name":"(840-592795784) - LANCE THOMAS BADE","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-19 17:19:27"}
+{"supplier_id":"9234356","nit":"840-592795784","supplier_name":"LANCE THOMAS BADE","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-19 17:19:27"}
 {"supplier_id":"9234357","nit":"292351089","supplier_name":"VELÁSQUEZ,DE LEÓN,,DIANA,ELISSA","current_status":"Habilitado","sanctions":[],"scraped_at":"2026-05-19 17:19:31"}
 {"supplier_id":"9234358","nit":"181667193","supplier_name":"LÓPEZ,PACHECO,,MANUEL,DE JESÚS","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-19 17:19:35"}
 {"supplier_id":"9234359","nit":"119562839","supplier_name":"PÉREZ,LÓPEZ,,WALTER,MIGUEL","current_status":"Habilitado","sanctions":[],"scraped_at":"2026-05-19 17:19:41"}

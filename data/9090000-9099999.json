@@ -2966,7 +2966,7 @@
 {"supplier_id":"9092965","nit":"103029087","supplier_name":"CAAL,CHÁ,,HUMBERTO,","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-17 07:25:52"}
 {"supplier_id":"9092966","nit":"200013718","supplier_name":"MORALES,MORALES,,JUAN,CARLOS","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-17 07:25:55"}
 {"supplier_id":"9092967","nit":"10078058K","supplier_name":"GOMEZ,PATZAN,,JOSELINE,RAQUEL","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-17 07:25:57"}
-{"supplier_id":"9092968","nit":null,"supplier_name":"(320-19984411) - GERSON GABRIEL  ESCOBAR DE LEON","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-17 07:25:59"}
+{"supplier_id":"9092968","nit":"320-19984411","supplier_name":"GERSON GABRIEL  ESCOBAR DE LEON","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-17 07:25:59"}
 {"supplier_id":"9092969","nit":"311633005","supplier_name":"GUOX,DE LEÓN,,SELVIN,AMILCAR","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-17 07:26:01"}
 {"supplier_id":"9092970","nit":"327249978","supplier_name":"GRAVE,MÉNDEZ,,AUGUSTO,","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-17 07:26:03"}
 {"supplier_id":"9092971","nit":"111530237","supplier_name":"ABREGO,RODRIGUEZ,,JUAN,MANUEL","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-17 07:26:05"}
@@ -3628,7 +3628,7 @@
 {"supplier_id":"9093627","nit":"106995774","supplier_name":"OSORIO,TZAMPOP,,CRISTINA,MAGDALENA","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-17 07:49:31"}
 {"supplier_id":"9093628","nit":"120218771","supplier_name":"TEEPLE,,,PAUL,LEWIS","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-17 07:49:33"}
 {"supplier_id":"9093629","nit":"113289294","supplier_name":"PACHECO,GALINDO,,ANA,RUFINA","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-17 07:49:35"}
-{"supplier_id":"9093630","nit":null,"supplier_name":"(320-199844119) - GERSON GABRIEL ESCOBAR DE LEON","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-17 07:49:37"}
+{"supplier_id":"9093630","nit":"320-199844119","supplier_name":"GERSON GABRIEL ESCOBAR DE LEON","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-17 07:49:37"}
 {"supplier_id":"9093631","nit":"93708904","supplier_name":"GOMEZ,ESCOBAR,,JOSE,FERNANDO","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-17 07:49:39"}
 {"supplier_id":"9093632","nit":"93018622","supplier_name":"RECINOS,ALVARADO,,NATALY,GABRIELA","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-17 07:49:42"}
 {"supplier_id":"9093633","nit":"107830256","supplier_name":"OLAYO,GALINDO,,ESMERALDA,ABIGAIL","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-17 07:49:43"}

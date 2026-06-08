@@ -446,7 +446,7 @@
 {"supplier_id":"8720445","nit":"103448209","supplier_name":"XAPER,MORALES,,SARA,","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-12 10:56:13"}
 {"supplier_id":"8720446","nit":"117389897","supplier_name":"OCHOA,LONGO,,PABLO,GUILLERMO","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-12 10:56:13"}
 {"supplier_id":"8720447","nit":"105687839","supplier_name":"BÁMACA,HERNÁNDEZ,,EFRAÍN,ARMANDO","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-12 10:56:13"}
-{"supplier_id":"8720448","nit":null,"supplier_name":"(170-AV225338) - VERA ANATOLIEVNA PERES ROKHAS","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-12 10:56:13"}
+{"supplier_id":"8720448","nit":"170-AV225338","supplier_name":"VERA ANATOLIEVNA PERES ROKHAS","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-12 10:56:13"}
 {"supplier_id":"8720449","nit":"115775048","supplier_name":"LÓPEZ,YOC,,ANTHONY,ANIBAL","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-12 10:56:13"}
 {"supplier_id":"8720450","nit":"117127019","supplier_name":"CHOC,CAC,,SERGIO,RODRIGO","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-12 10:56:13"}
 {"supplier_id":"8720451","nit":"117441627","supplier_name":"GARCIA,BRAN,,OLIVER,GERARDO","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-12 10:56:13"}
@@ -5735,7 +5735,7 @@
 {"supplier_id":"8725756","nit":"105998672","supplier_name":"ARCHILA,MONROY,,HECTOR,","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-12 10:56:13"}
 {"supplier_id":"8725757","nit":"116047690","supplier_name":"HERRERA,MEJÍA,,ERIKA,FRANCISCA","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-12 10:56:13"}
 {"supplier_id":"8725758","nit":"119136651","supplier_name":"SANDOVAL,CHICOJ,,WILSON,FERNANDO","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-12 10:56:13"}
-{"supplier_id":"8725759","nit":null,"supplier_name":"(170-AR169495) - HERNÁN ALBERTO ARBELÁEZ BERNAL","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-12 10:56:13"}
+{"supplier_id":"8725759","nit":"170-AR169495","supplier_name":"HERNÁN ALBERTO ARBELÁEZ BERNAL","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-12 10:56:13"}
 {"supplier_id":"8725760","nit":"110143930","supplier_name":"SANTIZO,PEREZ,,HAYDANY,LAURYZZ","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-12 10:56:13"}
 {"supplier_id":"8725761","nit":"117752282","supplier_name":"POS,MAZARIEGOS,,LOIDA,TERESA","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-12 10:56:13"}
 {"supplier_id":"8725762","nit":"107154706","supplier_name":"REYES,ZEPEDA,,SARVIA,ALELÍ","current_status":"Habilitado","sanctions":[],"scraped_at":"2026-05-12 10:56:13"}

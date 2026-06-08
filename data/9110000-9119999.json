@@ -2566,7 +2566,7 @@
 {"supplier_id":"9112565","nit":"336358385","supplier_name":"CUCUL,LÓPEZ,,JOSELINNE,ROSMERY","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-17 21:09:07"}
 {"supplier_id":"9112566","nit":"110006720","supplier_name":"CABRERA,VELÁSQUEZ,,ANGEL,FIDEL","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-17 21:09:08"}
 {"supplier_id":"9112567","nit":"109275578","supplier_name":"CONTRERAS,ORDOÑEZ,,ERICKA,ALEJANDRA","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-17 21:09:10"}
-{"supplier_id":"9112568","nit":null,"supplier_name":"(484-N03399111) - JUAN SEBASTIAN SALAZAR GOMEZ","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-17 21:09:13"}
+{"supplier_id":"9112568","nit":"484-N03399111","supplier_name":"JUAN SEBASTIAN SALAZAR GOMEZ","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-17 21:09:13"}
 {"supplier_id":"9112569","nit":"109449800","supplier_name":"PERALTA,DÍAZ,,DOUGLAS,OMAR","current_status":"Habilitado","sanctions":[],"scraped_at":"2026-05-17 21:09:15"}
 {"supplier_id":"9112570","nit":"104318155","supplier_name":"LAJPOP,CHOC,,DIANA,MARIELA","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-17 21:09:18"}
 {"supplier_id":"9112571","nit":"302351299","supplier_name":"MUÑOZ,SICAJÁ,,IRIS,MARIBEL","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-17 21:09:20"}
@@ -2574,7 +2574,7 @@
 {"supplier_id":"9112573","nit":"114263531","supplier_name":"PINZÓN,COLÓN,,JOHAN,ARIEL","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-17 21:09:24"}
 {"supplier_id":"9112574","nit":"311964362","supplier_name":"OSORIO,UZ,,MANUEL,ISAÍAS","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-17 21:09:26"}
 {"supplier_id":"9112575","nit":"90845528","supplier_name":"SIRITIT,BARRIOS,,EDGAR,ANIBAL","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-17 21:09:27"}
-{"supplier_id":"9112576","nit":null,"supplier_name":"(484-N03099111) - JUAN SEBASTIAN SALAZAR GOMEZ","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-17 21:09:29"}
+{"supplier_id":"9112576","nit":"484-N03099111","supplier_name":"JUAN SEBASTIAN SALAZAR GOMEZ","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-17 21:09:29"}
 {"supplier_id":"9112577","nit":"320343707","supplier_name":"GUTIÉRREZ,CANO,,CARMEN,GRACIELA","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-17 21:09:31"}
 {"supplier_id":"9112578","nit":"165734523","supplier_name":"CHILEL,PÉREZ,,AURELIANA,","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-17 21:09:32"}
 {"supplier_id":"9112579","nit":"299040577","supplier_name":"SANTIZO,HUERTAS,,JOSÉ,MANUEL","current_status":"Habilitado","sanctions":[],"scraped_at":"2026-05-17 21:09:34"}

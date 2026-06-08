@@ -7792,7 +7792,7 @@
 {"supplier_id":"9187791","nit":"320760790","supplier_name":"DÍAZ,FELIPE,,GILBERTO,EFRAÍN","current_status":"Habilitado","sanctions":[],"scraped_at":"2026-05-18 11:41:23"}
 {"supplier_id":"9187792","nit":"108545857","supplier_name":"CHEN,SURÁM,,PABLO,DENYS HERICELDO","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-18 11:41:25"}
 {"supplier_id":"9187793","nit":"113107730","supplier_name":"CETINO,CRISÓSTOMO,,ERVIN,MANUEL","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-18 11:41:27"}
-{"supplier_id":"9187794","nit":null,"supplier_name":"(840-568064425) - JUAN CARLOS MEDRANO CASTRO","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-18 11:41:30"}
+{"supplier_id":"9187794","nit":"840-568064425","supplier_name":"JUAN CARLOS MEDRANO CASTRO","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-18 11:41:30"}
 {"supplier_id":"9187795","nit":"278440037","supplier_name":"PORTILLO,,,ANDRES,BENJAMÍN","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-18 11:41:31"}
 {"supplier_id":"9187796","nit":"94229945","supplier_name":"PINEDA,IRLA,,JORGE,ARTURO","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-18 11:41:33"}
 {"supplier_id":"9187797","nit":"91788897","supplier_name":"LOPEZ,VICENTE,,ANA,MISHEL","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-18 11:41:36"}
@@ -9768,7 +9768,7 @@
 {"supplier_id":"9189767","nit":"341845086","supplier_name":"CHOC,POOU,,JENNER,ONELIO","current_status":"Habilitado","sanctions":[],"scraped_at":"2026-05-18 12:49:24"}
 {"supplier_id":"9189768","nit":"113632940","supplier_name":"TOBAR,MATTA,,JOSUÉ,DAVID","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-18 12:49:26"}
 {"supplier_id":"9189769","nit":"88038734","supplier_name":"BARILLAS,MONZON,,JOSELINNE,ALEXANDRA","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-18 12:49:28"}
-{"supplier_id":"9189770","nit":null,"supplier_name":"(840-CONSULADO) - CONSULADO GENERAL DE LA REPÚBLICA DE GUATEMALA EN OMAHA, NEBRASKA, ESTADOS UNIDOS DE AMÉRICA.","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-18 12:49:29"}
+{"supplier_id":"9189770","nit":"840-CONSULADO","supplier_name":"CONSULADO GENERAL DE LA REPÚBLICA DE GUATEMALA EN OMAHA, NEBRASKA, ESTADOS UNIDOS DE AMÉRICA.","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-18 12:49:29"}
 {"supplier_id":"9189771","nit":"111163188","supplier_name":"BARILLAS,CARDONA,,KARLA,JOHANA","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-18 12:49:31"}
 {"supplier_id":"9189772","nit":"287778096","supplier_name":"DUQUE,GUEVARA,,DOUGLAS,IVAN","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-18 12:49:33"}
 {"supplier_id":"9189773","nit":"110586778","supplier_name":"LUCAS,VÁSQUEZ,,MARGARETH,CAROLINA","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-18 12:49:35"}

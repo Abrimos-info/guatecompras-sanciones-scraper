@@ -7105,7 +7105,7 @@
 {"supplier_id":"8827107","nit":"90587561","supplier_name":"CHE,CHE,,HERMELINDO,","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-14 05:14:06"}
 {"supplier_id":"8827108","nit":"116890339","supplier_name":"TÍU,OSORIO,OSORIO,MARÍA,ROSARIO","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-14 05:14:07"}
 {"supplier_id":"8827109","nit":"309353858","supplier_name":"PABLO,MES,,VICTOR,MANUEL","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-14 05:14:09"}
-{"supplier_id":"8827110","nit":null,"supplier_name":"(862-169787570) - OSMER JOHANDY CAVANERIO MELENDEZ","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-14 05:14:12"}
+{"supplier_id":"8827110","nit":"862-169787570","supplier_name":"OSMER JOHANDY CAVANERIO MELENDEZ","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-14 05:14:12"}
 {"supplier_id":"8827111","nit":"304511013","supplier_name":"LÓPEZ,VELÁSQUEZ,,ANGEL,EMMANUEL","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-14 05:14:14"}
 {"supplier_id":"8827112","nit":"115566856","supplier_name":"TENAS,GUDIEL,,EVELYN,SARAÍ","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-14 05:14:16"}
 {"supplier_id":"8827113","nit":"118346032","supplier_name":"TOLICO,GARCIA,,MATILDE,MARIELA","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-14 05:14:18"}
@@ -7810,7 +7810,7 @@
 {"supplier_id":"8827812","nit":"112492835","supplier_name":"BOROR,COTZOJAY,,ADELA,DEL CARMEN","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-14 05:38:35"}
 {"supplier_id":"8827813","nit":"110597575","supplier_name":"FIGUEROA,ARIAS,,STEPHANIE,","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-14 05:38:37"}
 {"supplier_id":"8827814","nit":"105276162","supplier_name":"BONILLA,CUMES,,JUAN,FRANCISCO","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-14 05:38:40"}
-{"supplier_id":"8827815","nit":null,"supplier_name":"(862-163785899) - JUAN JOSE LOZADA PEREZ","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-14 05:38:41"}
+{"supplier_id":"8827815","nit":"862-163785899","supplier_name":"JUAN JOSE LOZADA PEREZ","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-14 05:38:41"}
 {"supplier_id":"8827816","nit":"374860130","supplier_name":"NAVAS,GUEVARA,,DEYSI,IYANIRA","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-14 05:38:44"}
 {"supplier_id":"8827817","nit":"94427801","supplier_name":"MAQUIN,RAX,,CARLOS,ENRIQUE","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-14 05:38:46"}
 {"supplier_id":"8827818","nit":"105161446","supplier_name":"OSCAL,LÓPEZ,,RICARDO,CALEB","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-14 05:38:48"}

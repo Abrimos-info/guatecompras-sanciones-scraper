@@ -282,7 +282,7 @@
 {"supplier_id":"8910281","nit":"314395806","supplier_name":"XINGO,CHÁVEZ,,MILCA,LUCÍA","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-15 01:25:00"}
 {"supplier_id":"8910282","nit":"116470461","supplier_name":"VÁSQUEZ,GENIS,,ANA,NOHEMI","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-15 01:25:02"}
 {"supplier_id":"8910283","nit":"102787123","supplier_name":"PACHECO,SANTIAGO,,JOSE,","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-15 01:25:05"}
-{"supplier_id":"8910284","nit":null,"supplier_name":"(32-AAK072040) - RAMIRO MALDONADO","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-15 01:25:07"}
+{"supplier_id":"8910284","nit":"32-AAK072040","supplier_name":"RAMIRO MALDONADO","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-15 01:25:07"}
 {"supplier_id":"8910285","nit":"106900870","supplier_name":"CURRUCHICH,TZIAN,,RUDY,","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-15 01:25:09"}
 {"supplier_id":"8910286","nit":"103259481","supplier_name":"GIRON,ESTUPE,,EVELIN,CORINA","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-15 01:25:10"}
 {"supplier_id":"8910287","nit":"111196582","supplier_name":"TZUNUX,CASTRO,,SANTIAGO,","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-15 01:25:12"}

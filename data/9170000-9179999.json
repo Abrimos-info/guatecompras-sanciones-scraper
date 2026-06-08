@@ -517,7 +517,7 @@
 {"supplier_id":"9170516","nit":"113116918","supplier_name":"MAGAÑA,ENRIQUEZ,,SUCENY,AISLENI","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-18 01:45:20"}
 {"supplier_id":"9170517","nit":"206048777","supplier_name":"PEDRO,JOSÉ,,ANA,","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-18 01:45:22"}
 {"supplier_id":"9170518","nit":"115808051","supplier_name":"REVOLORIO,RUEDA,,ROVIN,WILLIAM","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-18 01:45:24"}
-{"supplier_id":"9170519","nit":null,"supplier_name":"(604-123896320) - MAGDA VICTORIA ASCUES DEACOSTA","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-18 01:45:27"}
+{"supplier_id":"9170519","nit":"604-123896320","supplier_name":"MAGDA VICTORIA ASCUES DEACOSTA","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-18 01:45:27"}
 {"supplier_id":"9170520","nit":"331182548","supplier_name":"HERRERA,VÉLIZ,,RUDY,ALEXANDER","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-18 01:45:30"}
 {"supplier_id":"9170521","nit":"300476566","supplier_name":"HERRERA,AYAPAN,,PABLO,DAVID","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-18 01:45:32"}
 {"supplier_id":"9170522","nit":"108759431","supplier_name":"PÉREZ,CORDERO,,JUAN,JOSE","current_status":"Habilitado","sanctions":[],"scraped_at":"2026-05-18 01:45:33"}
@@ -1511,7 +1511,7 @@
 {"supplier_id":"9171510","nit":"338467157","supplier_name":"GÓMEZ,PÉREZ,,SARA,JUDITH","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-18 02:19:42"}
 {"supplier_id":"9171511","nit":"317309196","supplier_name":"VÁSQUEZ,VÁSQUEZ,,PEDRO,DAMIÁN","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-18 02:19:44"}
 {"supplier_id":"9171512","nit":"117366234","supplier_name":"SÁNCHEZ,BÁMACA,,JENNIFER,MICHELLE","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-18 02:19:47"}
-{"supplier_id":"9171513","nit":null,"supplier_name":"(484-G41085989) - RICARDO MARTINEZ LAGUNES","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-18 02:19:48"}
+{"supplier_id":"9171513","nit":"484-G41085989","supplier_name":"RICARDO MARTINEZ LAGUNES","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-18 02:19:48"}
 {"supplier_id":"9171514","nit":"253220173","supplier_name":"GRAVE,MONTERROSO,,JUAN,CARLOS","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-18 02:19:50"}
 {"supplier_id":"9171515","nit":"90515269","supplier_name":"JUAN,MATEO,,LUCAS,","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-18 02:19:52"}
 {"supplier_id":"9171516","nit":"117844942","supplier_name":"FELIPE,HUERTAS,,ALDO,EZAÚ","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-18 02:19:54"}

@@ -3887,11 +3887,11 @@
 {"supplier_id":"8943886","nit":"92280706","supplier_name":"LÓPEZ,BARRIOS,,LINDA,MARISOL","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-15 20:27:02"}
 {"supplier_id":"8943887","nit":"118596772","supplier_name":"MANCHAMÉ,ROQUE,,ROSELIA,EUNICE","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-15 20:27:05"}
 {"supplier_id":"8943888","nit":"115107304","supplier_name":"CAMPOS,BRAN,,KEYLA,MARISOL","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-15 20:27:07"}
-{"supplier_id":"8943889","nit":null,"supplier_name":"(840-577119302) - AGNIESZKA JOLANTA BILLINGTON","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-15 20:27:08"}
-{"supplier_id":"8943890","nit":null,"supplier_name":"(124-HM135053) - BRENDA FAY MINOR","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-15 20:27:09"}
-{"supplier_id":"8943891","nit":null,"supplier_name":"(170-PE102655) - CESAR AUGUSTO TORRENTE BAYONA","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-15 20:27:11"}
-{"supplier_id":"8943892","nit":null,"supplier_name":"(484-G24783645) - ROSSANA GUADALUPE LAGUNES ZALDIVAR","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-15 20:27:13"}
-{"supplier_id":"8943893","nit":null,"supplier_name":"(170-PE106510) - CESAR AUGUSTO TORRENTE BAYONA","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-15 20:27:15"}
+{"supplier_id":"8943889","nit":"840-577119302","supplier_name":"AGNIESZKA JOLANTA BILLINGTON","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-15 20:27:08"}
+{"supplier_id":"8943890","nit":"124-HM135053","supplier_name":"BRENDA FAY MINOR","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-15 20:27:09"}
+{"supplier_id":"8943891","nit":"170-PE102655","supplier_name":"CESAR AUGUSTO TORRENTE BAYONA","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-15 20:27:11"}
+{"supplier_id":"8943892","nit":"484-G24783645","supplier_name":"ROSSANA GUADALUPE LAGUNES ZALDIVAR","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-15 20:27:13"}
+{"supplier_id":"8943893","nit":"170-PE106510","supplier_name":"CESAR AUGUSTO TORRENTE BAYONA","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-15 20:27:15"}
 {"supplier_id":"8943894","nit":"92752519","supplier_name":"GARCIA,AGUILAR,,OLDIN,RUDY","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-15 20:27:18"}
 {"supplier_id":"8943895","nit":"113462816","supplier_name":"MEDRANO,CHACAJ,,FRANCISCO,","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-15 20:27:21"}
 {"supplier_id":"8943896","nit":"119566559","supplier_name":"CHIC,TZOY,,EDGAR,FERMÍN","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-15 20:27:23"}
@@ -4360,7 +4360,7 @@
 {"supplier_id":"8944359","nit":"113644434","supplier_name":"MEJIA,SARAT,,PEDRO,VICENTE","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-15 20:43:57"}
 {"supplier_id":"8944360","nit":"93599463","supplier_name":"DONIS,LOPEZ,,MICHAEL,ESTIVEN","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-15 20:43:59"}
 {"supplier_id":"8944361","nit":"328699128","supplier_name":"ORELLANA,GUTIERREZ,,FRANI,GAMALIEL","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-15 20:44:01"}
-{"supplier_id":"8944362","nit":null,"supplier_name":"(840-A25602574) - JONATHAN HOWARD HOLLING","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-15 20:44:03"}
+{"supplier_id":"8944362","nit":"840-A25602574","supplier_name":"JONATHAN HOWARD HOLLING","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-15 20:44:03"}
 {"supplier_id":"8944363","nit":"111509351","supplier_name":"ARANA,VALLES,,KIMBERLY,LUCERO","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-15 20:44:06"}
 {"supplier_id":"8944364","nit":"110634519","supplier_name":"SANTOS,CORADO,,JOEL,OSWALDO","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-15 20:44:09"}
 {"supplier_id":"8944365","nit":"101679122","supplier_name":"IXMATUL,GAITÁN,,WILMER,OMAR","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-15 20:44:11"}
@@ -6391,7 +6391,7 @@
 {"supplier_id":"8946390","nit":"299243893","supplier_name":"HERNÁNDEZ,Y HERNÁNDEZ,,ERICK,JÓANN","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-15 21:56:14"}
 {"supplier_id":"8946391","nit":"112747485","supplier_name":"GREGORIO,VÁSQUEZ,,FLORINDA,","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-15 21:56:15"}
 {"supplier_id":"8946392","nit":"107179547","supplier_name":"GÁLVEZ,LÓPEZ,,DILMER,OSVALDO","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-15 21:56:18"}
-{"supplier_id":"8946393","nit":null,"supplier_name":"(188-B00047049) - LAURA BARRANTES VEGA","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-15 21:56:19"}
+{"supplier_id":"8946393","nit":"188-B00047049","supplier_name":"LAURA BARRANTES VEGA","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-15 21:56:19"}
 {"supplier_id":"8946394","nit":"111207487","supplier_name":"TORRES,SANTOS,,LUIS,ALFREDO","current_status":"Habilitado","sanctions":[],"scraped_at":"2026-05-15 21:56:21"}
 {"supplier_id":"8946395","nit":"115274332","supplier_name":"PINEDA,YANES,,KEVIN,ARNOLD","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-15 21:56:24"}
 {"supplier_id":"8946396","nit":"113777884","supplier_name":"GARCÍA,MELGAREJO,,RODRIGO,ENRIQUE","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-15 21:56:27"}

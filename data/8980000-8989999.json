@@ -1815,7 +1815,7 @@
 {"supplier_id":"8981814","nit":"108167046","supplier_name":"A&A CONSULTORES GUATEMALA, SOCIEDAD ANÓNIMA","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-15 17:37:34"}
 {"supplier_id":"8981815","nit":"118497065","supplier_name":"HERRERA,CORADO,,WILLIAM,RICARDO","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-15 17:37:36"}
 {"supplier_id":"8981816","nit":"104911875","supplier_name":"CHÁVEZ,AJIATAZ,,SABINA,MATEA","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-15 17:37:38"}
-{"supplier_id":"8981817","nit":null,"supplier_name":"(76-FS937891) - CLAUDIA MOREIRA DE MESQUITA","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-15 17:37:40"}
+{"supplier_id":"8981817","nit":"76-FS937891","supplier_name":"CLAUDIA MOREIRA DE MESQUITA","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-15 17:37:40"}
 {"supplier_id":"8981818","nit":"109054644","supplier_name":"ESTRADA,CALDERAS,,VICTOR,ARCANGEL","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-15 17:37:42"}
 {"supplier_id":"8981819","nit":"120380862","supplier_name":"H&J FALEM, SOCIEDAD ANÓNIMA","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-15 17:37:44"}
 {"supplier_id":"8981820","nit":"103625399","supplier_name":"ROBLES,CHOGUAJ,,YESICA,ADAMARY","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-15 17:37:46"}
@@ -5880,7 +5880,7 @@
 {"supplier_id":"8985880","nit":"327360720","supplier_name":"TIÑO,RÍZ,,TRÁNSITO,","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-15 20:00:02"}
 {"supplier_id":"8985881","nit":"108468593","supplier_name":"DE PAZ,PÉREZ,,MARÍA,JOSÉ","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-15 20:00:04"}
 {"supplier_id":"8985882","nit":"114307504","supplier_name":"LÓPEZ,GONZALES,,MANUEL,ELÍAS","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-15 20:00:06"}
-{"supplier_id":"8985883","nit":null,"supplier_name":"(840-A35026707) - BETHANNE HOLLY CARTER","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-15 20:00:07"}
+{"supplier_id":"8985883","nit":"840-A35026707","supplier_name":"BETHANNE HOLLY CARTER","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-15 20:00:07"}
 {"supplier_id":"8985884","nit":"114398364","supplier_name":"RAMOS,GÓMEZ,,YOSELIN,PAHOLA","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-15 20:00:09"}
 {"supplier_id":"8985885","nit":"119727862","supplier_name":"BULUX,ARÉVALO,,EDIN,RODRIGO","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-15 20:00:12"}
 {"supplier_id":"8985886","nit":"118612395","supplier_name":"RAX,LOBOS,,ASTRID,CELESTE","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-15 20:00:13"}

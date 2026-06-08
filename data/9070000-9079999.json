@@ -4606,7 +4606,7 @@
 {"supplier_id":"9074605","nit":"91473624","supplier_name":"ALVAREZ,HERRERA,,EDWIN,SAUL","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-16 20:51:42"}
 {"supplier_id":"9074606","nit":"111976774","supplier_name":"RAMÍREZ,HERNÁNDEZ,AGUILAR,MERITH,SUGEÍ","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-16 20:51:44"}
 {"supplier_id":"9074607","nit":"207044457","supplier_name":"BRAN,PIRIL,,MARÍA,CELESTE","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-16 20:51:46"}
-{"supplier_id":"9074608","nit":null,"supplier_name":"(276-C1MMPT039) - THOMS AXEL","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-16 20:51:48"}
+{"supplier_id":"9074608","nit":"276-C1MMPT039","supplier_name":"THOMS AXEL","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-16 20:51:48"}
 {"supplier_id":"9074609","nit":"116317469","supplier_name":"SOC,XIÁ,,EVELYN,ROCÍO","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-16 20:51:50"}
 {"supplier_id":"9074610","nit":"109890930","supplier_name":"FUENTES,CANSINOS,,LUIS,ARMANDO","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-16 20:51:51"}
 {"supplier_id":"9074611","nit":"116896841","supplier_name":"PÉREZ,Y PÉREZ,,HÉCTOR,DAVID","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-16 20:51:53"}
@@ -9980,7 +9980,7 @@
 {"supplier_id":"9079980","nit":"111993105","supplier_name":"PINEDA,BARAHONA,,JORGE,MARIO","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-16 23:57:22"}
 {"supplier_id":"9079981","nit":"231627173","supplier_name":"HERNÁNDEZ,,,JEIMY,VALESKA","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-16 23:57:24"}
 {"supplier_id":"9079982","nit":"246094095","supplier_name":"VICENTE,PINEDA,,ELVIS,WILFREDO","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-16 23:57:25"}
-{"supplier_id":"9079983","nit":null,"supplier_name":"(724-PAS367992) - JOSE LUIS CEA CLAVER","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-16 23:57:27"}
+{"supplier_id":"9079983","nit":"724-PAS367992","supplier_name":"JOSE LUIS CEA CLAVER","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-16 23:57:27"}
 {"supplier_id":"9079984","nit":"115034323","supplier_name":"CUYÁN,MENDEZ,,JOSÉ,RODOLFO","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-16 23:57:29"}
 {"supplier_id":"9079985","nit":"99412594","supplier_name":"LOPEZ,ZURIA,,DAYONARA,YAMILETTE","current_status":"Habilitado","sanctions":[],"scraped_at":"2026-05-16 23:57:32"}
 {"supplier_id":"9079986","nit":"115903127","supplier_name":"XALIX,XIC,,ROGELIO,EZEQUÍAS","current_status":"Habilitado","sanctions":[],"scraped_at":"2026-05-16 23:57:35"}

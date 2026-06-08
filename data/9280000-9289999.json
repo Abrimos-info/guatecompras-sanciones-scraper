@@ -4641,7 +4641,7 @@
 {"supplier_id":"9284653","nit":"114027471","supplier_name":"MIRANDA,GODINEZ,,ROBIN,ONELIO","current_status":"Habilitado","sanctions":[],"scraped_at":"2026-05-19 17:48:07"}
 {"supplier_id":"9284654","nit":"108337316","supplier_name":"ACOSTA,ROJAS,,JULISSA,PAOLA","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-19 17:48:09"}
 {"supplier_id":"9284655","nit":"99412179","supplier_name":"VILLATORO,VILLATORO,,JOSE,ALFREDO","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-19 17:48:12"}
-{"supplier_id":"9284656","nit":null,"supplier_name":"(188-B00272848) - MARCELA RAMIREZ HERNANDEZ","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-19 17:48:15"}
+{"supplier_id":"9284656","nit":"188-B00272848","supplier_name":"MARCELA RAMIREZ HERNANDEZ","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-19 17:48:15"}
 {"supplier_id":"9284657","nit":"100477933","supplier_name":"LOPEZ,DE LA CRUZ,,DIEGO,ELIUD","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-19 17:48:18"}
 {"supplier_id":"9284658","nit":"301543372","supplier_name":"PÉREZ,TAVICO,,MAXIMILIANO,ANDRÉS","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-19 17:48:22"}
 {"supplier_id":"9284659","nit":"110371321","supplier_name":"MORALES,CANEL,,RICARDO,ARIEL","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-19 17:48:25"}
@@ -4842,7 +4842,7 @@
 {"supplier_id":"9284858","nit":"99547651","supplier_name":"ALVAREZ,LÓPEZ,,MIGUEL,","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-19 17:56:50"}
 {"supplier_id":"9284859","nit":"354376756","supplier_name":"AJÚ,SIAC,,EVA,ELIZABETH","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-19 17:56:53"}
 {"supplier_id":"9284860","nit":"327825316","supplier_name":"VILLELA,RAMOS,,SANDI,YARIBETH","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-19 17:56:56"}
-{"supplier_id":"9284861","nit":null,"supplier_name":"(484-NO3578368) - MICHAEL EDUARDO SMITH CASTILLO","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-19 17:56:58"}
+{"supplier_id":"9284861","nit":"484-NO3578368","supplier_name":"MICHAEL EDUARDO SMITH CASTILLO","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-19 17:56:58"}
 {"supplier_id":"9284862","nit":"119280825","supplier_name":"CIFUENTES,GARCÍA,,YAKELYN,GABRIELA","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-19 17:57:00"}
 {"supplier_id":"9284863","nit":"294663231","supplier_name":"CHÓ,TUL,,BRENDA,LUCRECIA","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-19 17:57:03"}
 {"supplier_id":"9284864","nit":"284124354","supplier_name":"GARCÍA,CASTRO,AGUILAR,MARÍA,CATARINA","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-19 17:57:06"}

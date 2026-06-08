@@ -1911,7 +1911,7 @@
 {"supplier_id":"8781910","nit":"118858297","supplier_name":"XOL,COC,,RUBEN,","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-13 06:11:11"}
 {"supplier_id":"8781911","nit":"106973185","supplier_name":"NOGUERA,CRÚZ,,MARIO,JOSUÉ","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-13 06:11:13"}
 {"supplier_id":"8781912","nit":"116042680","supplier_name":"QUIROA,NÁJERA,,EDITH,DANIRA","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-13 06:11:15"}
-{"supplier_id":"8781913","nit":null,"supplier_name":"(840-530954327) - JAMES TODD GRAVES","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-13 06:11:18"}
+{"supplier_id":"8781913","nit":"840-530954327","supplier_name":"JAMES TODD GRAVES","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-13 06:11:18"}
 {"supplier_id":"8781914","nit":"103259295","supplier_name":"ROSALES,TAJTAJ,,MADELIN,ALEJANDRA","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-13 06:11:19"}
 {"supplier_id":"8781915","nit":"111175054","supplier_name":"MORALES,RAMÍREZ,,GERSON,ANTONIO","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-13 06:11:21"}
 {"supplier_id":"8781916","nit":"109252241","supplier_name":"PETZEY,IXMATÁ,,ANGEL,ADOLFO","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-13 06:11:24"}
@@ -1923,7 +1923,7 @@
 {"supplier_id":"8781922","nit":"108918246","supplier_name":"XOCH,PICH,PANJOJ,ELVY,","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-13 06:11:37"}
 {"supplier_id":"8781923","nit":"118287796","supplier_name":"SPACIO AM, SOCIEDAD ANÓNIMA","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-13 06:11:39"}
 {"supplier_id":"8781924","nit":"90843215","supplier_name":"COTIY,TZOC,,DIEGO,","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-13 06:11:40"}
-{"supplier_id":"8781925","nit":null,"supplier_name":"(724-PAK361841) - PEDRO MARTIN FARIZA","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-13 06:11:44"}
+{"supplier_id":"8781925","nit":"724-PAK361841","supplier_name":"PEDRO MARTIN FARIZA","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-13 06:11:44"}
 {"supplier_id":"8781926","nit":"110363140","supplier_name":"MEJÍA,RIVERA,,JAVIER,ANDRÉS","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-13 06:11:45"}
 {"supplier_id":"8781927","nit":"120045591","supplier_name":"ALMACÉN KMQ, SOCIEDAD ANÓNIMA","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-13 06:11:47"}
 {"supplier_id":"8781928","nit":"283433035","supplier_name":"TECÚN,SANTANA,,MAURO,ARNOLDO","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-13 06:11:49"}

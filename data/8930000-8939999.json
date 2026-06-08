@@ -1513,7 +1513,7 @@
 {"supplier_id":"8931512","nit":"174332785","supplier_name":"GARZA,SALGUERO,,MARTA,LIDIA","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-15 13:18:34"}
 {"supplier_id":"8931513","nit":"116093161","supplier_name":"DE LEÓN,ROSA,,WILLIAM,NOÉ","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-15 13:18:35"}
 {"supplier_id":"8931514","nit":"315379278","supplier_name":"FLORES,SAM,,JOSIAS,GADIEL","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-15 13:18:37"}
-{"supplier_id":"8931515","nit":null,"supplier_name":"(840-566124249) - MAURICIO ALBERTO GARCIA BALLESTEROS","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-15 13:18:39"}
+{"supplier_id":"8931515","nit":"840-566124249","supplier_name":"MAURICIO ALBERTO GARCIA BALLESTEROS","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-15 13:18:39"}
 {"supplier_id":"8931516","nit":"117033871","supplier_name":"VEGA,HOYOS,,HEINER,JESUS","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-15 13:18:41"}
 {"supplier_id":"8931517","nit":"120355566","supplier_name":"SCATLIFF,,,THOMAS,MARC","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-15 13:18:43"}
 {"supplier_id":"8931518","nit":"100491871","supplier_name":"VELÁSQUEZ,OCHOA,,FLOR,DE MARÍA","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-15 13:18:46"}
@@ -9477,7 +9477,7 @@
 {"supplier_id":"8939476","nit":"90971264","supplier_name":"MIRANDA,DE LEON,,ALEXANDER,VALENTIN","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-15 17:55:17"}
 {"supplier_id":"8939477","nit":"115378332","supplier_name":"LÓPEZ,ECHEVERRÍA,,GUILLERMO,RODOLFO","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-15 17:55:19"}
 {"supplier_id":"8939478","nit":"116612223","supplier_name":"MIRANDA,ORÓZCO,,ANGELICA,LUCRECIA","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-15 17:55:21"}
-{"supplier_id":"8939479","nit":null,"supplier_name":"(188-G311294) - HANNIA CHINCHILLA FALLAS","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-15 17:55:24"}
+{"supplier_id":"8939479","nit":"188-G311294","supplier_name":"HANNIA CHINCHILLA FALLAS","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-15 17:55:24"}
 {"supplier_id":"8939480","nit":"324523378","supplier_name":"VÁSQUEZ,VELÁSQUEZ,,WESLYN,ZULEYMI","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-15 17:55:25"}
 {"supplier_id":"8939481","nit":"333946278","supplier_name":"ORTIZ,MARTÍNEZ,,JOSÉ,LUIS","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-15 17:55:27"}
 {"supplier_id":"8939482","nit":"80563899","supplier_name":"RIVAS,QUINTANA,,MONICA,ELVIRA","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-15 17:55:29"}

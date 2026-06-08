@@ -645,7 +645,7 @@
 {"supplier_id":"9100644","nit":"99559226","supplier_name":"BEDOYA,QUIÑONEZ,,LUIS,DAVID","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-17 14:15:47"}
 {"supplier_id":"9100645","nit":"109184726","supplier_name":"LÓPEZ,MÉNDEZ,,WALTER,OSVELÍ","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-17 14:15:49"}
 {"supplier_id":"9100646","nit":"114698015","supplier_name":"GUOZ,AJPUAC,,JOSEFA,","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-17 14:15:51"}
-{"supplier_id":"9100647","nit":null,"supplier_name":"(484-G42008835) - MARIA DEL CONSUELO LOPEZ BAYGHEN PATIÑO","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-17 14:15:52"}
+{"supplier_id":"9100647","nit":"484-G42008835","supplier_name":"MARIA DEL CONSUELO LOPEZ BAYGHEN PATIÑO","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-17 14:15:52"}
 {"supplier_id":"9100648","nit":"168643332","supplier_name":"ICAL,CAAL,,ANA,MARÍA","current_status":"Habilitado","sanctions":[],"scraped_at":"2026-05-17 14:15:54"}
 {"supplier_id":"9100649","nit":"106352946","supplier_name":"PEREZ,PUAC,,ESTUARDO,ANTONIO","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-17 14:15:56"}
 {"supplier_id":"9100650","nit":"299825574","supplier_name":"BLANDÓN,GARCÍA,,MEILYN,CRISTINA","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-17 14:15:58"}
@@ -5131,7 +5131,7 @@
 {"supplier_id":"9105130","nit":"111374669","supplier_name":"FIGUEROA,LUCERO,,GABRIELA,FRANCINÉE","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-17 16:51:49"}
 {"supplier_id":"9105131","nit":"325623937","supplier_name":"ROSALES,MAQUIN,,ENIEL,URIEL ALEJANDRO","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-17 16:51:52"}
 {"supplier_id":"9105132","nit":"276918010","supplier_name":"FUENTES,ROBLERO,,CHRISTIAN,BRAYANT","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-17 16:51:54"}
-{"supplier_id":"9105133","nit":null,"supplier_name":"(188-B00257954) - JORGE LUIS PORRAS ZAMORA","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-17 16:51:56"}
+{"supplier_id":"9105133","nit":"188-B00257954","supplier_name":"JORGE LUIS PORRAS ZAMORA","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-17 16:51:56"}
 {"supplier_id":"9105134","nit":"190631503","supplier_name":"BEDOYA,FLORES,GODOY,IRMA,YOLANDA","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-17 16:51:58"}
 {"supplier_id":"9105135","nit":"332996751","supplier_name":"CONTRERAS,MENZIE,,ORSY,LETICIA","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-17 16:52:01"}
 {"supplier_id":"9105136","nit":"99155745","supplier_name":"BUEZO,ESCOBAR,,ANTONY,EMMANUEL","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-17 16:52:04"}

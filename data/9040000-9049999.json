@@ -9302,7 +9302,7 @@
 {"supplier_id":"9049301","nit":"117169196","supplier_name":"ZEPEDA,BARRERA,,ANDERSON,RONALDO","current_status":"Habilitado","sanctions":[],"scraped_at":"2026-05-17 11:03:49"}
 {"supplier_id":"9049302","nit":"110455290","supplier_name":"CHIGÜICHÓN,CHINCHILLA,,OSCAR,EDUARDO","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-17 11:03:50"}
 {"supplier_id":"9049303","nit":"117453935","supplier_name":"OLIVARES,REYES,,BRAYAN,ISAAC","current_status":"Habilitado","sanctions":[],"scraped_at":"2026-05-17 11:03:53"}
-{"supplier_id":"9049304","nit":null,"supplier_name":"(724-PAP273565) - MARIA MAYOLA DEL RINCON GARCIA","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-17 11:03:55"}
+{"supplier_id":"9049304","nit":"724-PAP273565","supplier_name":"MARIA MAYOLA DEL RINCON GARCIA","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-17 11:03:55"}
 {"supplier_id":"9049305","nit":"99503573","supplier_name":"RAMIREZ,ORTEGA,,VICENTA,CATALINA","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-17 11:03:57"}
 {"supplier_id":"9049306","nit":"111499313","supplier_name":"JURADO,REYNA,,BYRON,ESTUARDO","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-17 11:03:59"}
 {"supplier_id":"9049307","nit":"108540456","supplier_name":"OBANDO,PADILLA,,ANA,ISABELLE","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-17 11:04:01"}

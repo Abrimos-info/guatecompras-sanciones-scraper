@@ -1241,7 +1241,7 @@
 {"supplier_id":"8771240","nit":"114425973","supplier_name":"BONILLA,ENRIQUEZ,,EDGAR,GEOVANNI","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-13 13:54:52"}
 {"supplier_id":"8771241","nit":"105592064","supplier_name":"DUQUE,ALDANA,,PEDRO,LUIS","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-13 13:54:54"}
 {"supplier_id":"8771242","nit":"114582173","supplier_name":"VELASQUEZ,MARIN,JIATAZ,FELIPA,","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-13 13:54:56"}
-{"supplier_id":"8771243","nit":null,"supplier_name":"(484-G34838509) - JORGE MARIO FLORES OSORIO","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-13 13:54:58"}
+{"supplier_id":"8771243","nit":"484-G34838509","supplier_name":"JORGE MARIO FLORES OSORIO","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-13 13:54:58"}
 {"supplier_id":"8771244","nit":"301269556","supplier_name":"CERMEÑO,SALAZAR,,BYANKA,ADELAIDA","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-13 13:55:00"}
 {"supplier_id":"8771245","nit":"106265865","supplier_name":"MEJÍA,CANIL,,MAURICIO,ELIBERTO","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-13 13:55:02"}
 {"supplier_id":"8771246","nit":"109565002","supplier_name":"GIRÓN,ALVAREZ,,TOMÁS,GERARDO MATILDE","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-13 13:55:04"}
@@ -2967,7 +2967,7 @@
 {"supplier_id":"8772968","nit":"109268806","supplier_name":"CARLOS,ROJAS,,JHONNY,BRANDON","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-13 14:57:06"}
 {"supplier_id":"8772969","nit":"116079517","supplier_name":"GARCÍA,CHITI,,ANDY,JOSUE","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-13 14:57:09"}
 {"supplier_id":"8772970","nit":"322433657","supplier_name":"SEBASTIÁN,LORENZO,,ADOVÍAS,","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-13 14:57:12"}
-{"supplier_id":"8772971","nit":null,"supplier_name":"(458-A53942409) - YUEN CHEE WERN","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-13 14:57:13"}
+{"supplier_id":"8772971","nit":"458-A53942409","supplier_name":"YUEN CHEE WERN","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-13 14:57:13"}
 {"supplier_id":"8772972","nit":"106208667","supplier_name":"RAMIREZ,LOPEZ,,GUSTAVO,ADOLFO","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-13 14:57:16"}
 {"supplier_id":"8772973","nit":"100172660","supplier_name":"ENRIQUEZ,JERONIMO,,GUSTIN,ADRIAN","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-13 14:57:18"}
 {"supplier_id":"8772974","nit":"118735322","supplier_name":"DÍAZ,GARCÍA,,FRANCISCA,","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-13 14:57:20"}
@@ -3005,7 +3005,7 @@
 {"supplier_id":"8773006","nit":"105163333","supplier_name":"ESTRADA,RAMÍREZ,,ESTEFANY,MELISA","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-13 14:58:29"}
 {"supplier_id":"8773007","nit":"119252082","supplier_name":"VASQUEZ,AMAYA,,JAKELIN,PAOLA","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-13 14:58:30"}
 {"supplier_id":"8773008","nit":"115842764","supplier_name":"PELICÓ,DE LEÓN,,YUGLIN,LIZAIDY","current_status":"Habilitado","sanctions":[],"scraped_at":"2026-05-13 14:58:32"}
-{"supplier_id":"8773009","nit":null,"supplier_name":"(458-A54760158) - MOHAMMAD SYAFIQ BIN MOHD KAMAL","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-13 14:58:33"}
+{"supplier_id":"8773009","nit":"458-A54760158","supplier_name":"MOHAMMAD SYAFIQ BIN MOHD KAMAL","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-13 14:58:33"}
 {"supplier_id":"8773010","nit":"96653035","supplier_name":"PACHECO,CARIAS,,HAMILTON,WILFREDO","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-13 14:58:35"}
 {"supplier_id":"8773011","nit":"110467973","supplier_name":"BARILLAS,ESQUIVEL,,AXEL,HUMBERTO","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-13 14:58:37"}
 {"supplier_id":"8773012","nit":"119377527","supplier_name":"XALIN,GUAMUCH,,CRUZ,","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-13 14:58:39"}
@@ -3064,7 +3064,7 @@
 {"supplier_id":"8773065","nit":"339677198","supplier_name":"PÉREZ,PABLO,,VIRGINIA,","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-13 15:00:40"}
 {"supplier_id":"8773066","nit":"91655536","supplier_name":"RECINOS,RAMIREZ,,JESÚS,ORLANDO","current_status":"Habilitado","sanctions":[],"scraped_at":"2026-05-13 15:00:42"}
 {"supplier_id":"8773067","nit":"106001914","supplier_name":"PÉREZ,VIDES,,MARDOQUEO,","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-13 15:00:43"}
-{"supplier_id":"8773068","nit":null,"supplier_name":"(458-A54188922) - NOOR AINAA AMANI BINTI AMPANDI","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-13 15:00:45"}
+{"supplier_id":"8773068","nit":"458-A54188922","supplier_name":"NOOR AINAA AMANI BINTI AMPANDI","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-13 15:00:45"}
 {"supplier_id":"8773069","nit":"164815880","supplier_name":"SICÁN,XUJUR,,CARMEN,FRANCISCA","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-13 15:00:47"}
 {"supplier_id":"8773070","nit":"101574940","supplier_name":"JURACAN,SUY,,BERNARDINO,ERIBERTO","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-13 15:00:50"}
 {"supplier_id":"8773071","nit":"109227492","supplier_name":"ARANA,,,CHRISTIAN,ESTEBAN ARAMIZ","current_status":"Habilitado","sanctions":[],"scraped_at":"2026-05-13 15:00:53"}

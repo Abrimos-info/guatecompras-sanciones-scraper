@@ -4804,7 +4804,7 @@
 {"supplier_id":"9054803","nit":"102995079","supplier_name":"HERNÁNDEZ,DELGADO,,DANIA,CRISTINA","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-16 09:20:08"}
 {"supplier_id":"9054804","nit":"116221011","supplier_name":"GONZÁLEZ,MATZUY,,JOSÍAS,EMANUEL","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-16 09:20:11"}
 {"supplier_id":"9054805","nit":"108380335","supplier_name":"MIS,MÉNDEZ,,ERVIN,LEVI","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-16 09:20:13"}
-{"supplier_id":"9054806","nit":null,"supplier_name":"(724-PA0307578) - MARIA DOLORES GENARO MOYA","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-16 09:20:15"}
+{"supplier_id":"9054806","nit":"724-PA0307578","supplier_name":"MARIA DOLORES GENARO MOYA","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-16 09:20:15"}
 {"supplier_id":"9054807","nit":"342803964","supplier_name":"VÁSQUEZ,LÓPEZ,,CRISTIAN,EDUARDO","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-16 09:20:17"}
 {"supplier_id":"9054808","nit":"325252009","supplier_name":"COXAJ,PÉREZ,,ARMANDO,","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-16 09:20:19"}
 {"supplier_id":"9054809","nit":"95606289","supplier_name":"LOPEZ,DE LA ROSA,,MAYRA,SUSANA","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-16 09:20:21"}
@@ -4952,7 +4952,7 @@
 {"supplier_id":"9054951","nit":"365519251","supplier_name":"LÓPEZ,GRAMAJO,,DARIEN,YASIR EMILIO","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-16 09:26:16"}
 {"supplier_id":"9054952","nit":"109986091","supplier_name":"RAMÍREZ,AC,,ABNER,NEFTALÍ","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-16 09:26:18"}
 {"supplier_id":"9054953","nit":"107422859","supplier_name":"ICAL,MÓ,,EDGAR,GONZALO","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-16 09:26:20"}
-{"supplier_id":"9054954","nit":null,"supplier_name":"(724-PAE052345) - ALFREDO CAMPOS LACOBA","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-16 09:26:22"}
+{"supplier_id":"9054954","nit":"724-PAE052345","supplier_name":"ALFREDO CAMPOS LACOBA","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-16 09:26:22"}
 {"supplier_id":"9054955","nit":"113610734","supplier_name":"SECAIDA,CRISTALES,,DONOBAN,ESTIBEN","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-16 09:26:24"}
 {"supplier_id":"9054956","nit":"118931709","supplier_name":"FIGUEROA,ESTRADA,,OSCAR,DANIEL","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-16 09:26:26"}
 {"supplier_id":"9054957","nit":"107972816","supplier_name":"CHACHAL,RAMIREZ,,JOSÉ,ESTUARDO","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-16 09:26:28"}

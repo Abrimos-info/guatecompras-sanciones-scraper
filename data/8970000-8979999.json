@@ -2549,7 +2549,7 @@
 {"supplier_id":"8972548","nit":"325782229","supplier_name":"JUÁREZ,Y JUÁREZ,,SANDRA,NOHEMÍ","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-15 12:18:55"}
 {"supplier_id":"8972549","nit":"107874776","supplier_name":"LEMUS,GUATZIN,,ANGEL,LUIS","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-15 12:18:58"}
 {"supplier_id":"8972550","nit":"91311675","supplier_name":"MENDEZ,VASQUEZ,,JOSUE,ESTUARDO","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-15 12:19:01"}
-{"supplier_id":"8972551","nit":null,"supplier_name":"(152-P29711207) - ANDREA REBOLLEDO AGUILERA","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-15 12:19:03"}
+{"supplier_id":"8972551","nit":"152-P29711207","supplier_name":"ANDREA REBOLLEDO AGUILERA","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-15 12:19:03"}
 {"supplier_id":"8972552","nit":"175686874","supplier_name":"SÓN,CUÁ,,FLORENCIA,","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-15 12:19:04"}
 {"supplier_id":"8972553","nit":"305811525","supplier_name":"ARMAS,BATZÍN,,DAMARIS,EUNICE","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-15 12:19:06"}
 {"supplier_id":"8972554","nit":"96812672","supplier_name":"JOL,CUCUL,,JULIAN,","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-15 12:19:07"}
@@ -8152,7 +8152,7 @@
 {"supplier_id":"8978151","nit":"115445536","supplier_name":"HERNÁNDEZ,ZAPETA,,WILLIAM,ALEJANDRO","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-15 15:30:29"}
 {"supplier_id":"8978152","nit":"111139376","supplier_name":"MIRANDA,MARTÍNEZ,,JULIO,ALEXANDER","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-15 15:30:32"}
 {"supplier_id":"8978153","nit":"108945286","supplier_name":"PÉREZ,FUENTES,,YEISON,ISAAC","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-15 15:30:34"}
-{"supplier_id":"8978154","nit":null,"supplier_name":"(170-BE458743) - HERNAN ALBERTO ARBELAEZ BERNAL","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-15 15:30:35"}
+{"supplier_id":"8978154","nit":"170-BE458743","supplier_name":"HERNAN ALBERTO ARBELAEZ BERNAL","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-15 15:30:35"}
 {"supplier_id":"8978155","nit":"238001717","supplier_name":"ARANA,CORADO,,EDGAR,","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-15 15:30:38"}
 {"supplier_id":"8978156","nit":"117756156","supplier_name":"MARROQUIN,FUENTES,,EDWIN,OMAR","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-15 15:30:40"}
 {"supplier_id":"8978157","nit":"118187880","supplier_name":"OROZCO,ALMARÁZ,,KYRA,ASHANTI BEYONCÉ","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-15 15:30:42"}
@@ -9435,7 +9435,7 @@
 {"supplier_id":"8979434","nit":"120434520","supplier_name":"W.E. TROTA, SOCIEDAD ANÓNIMA","current_status":"Habilitado","sanctions":[],"scraped_at":"2026-05-15 16:15:14"}
 {"supplier_id":"8979435","nit":"232566127","supplier_name":"CAC,TZOY,LUX,MARÍA,LUCÍA","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-15 16:15:16"}
 {"supplier_id":"8979436","nit":"310184940","supplier_name":"XIQUIN,GUARCAS,,YEIMI,SULAMITA","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-15 16:15:19"}
-{"supplier_id":"8979437","nit":null,"supplier_name":"(826-XX) - DGNET LTD","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-15 16:15:20"}
+{"supplier_id":"8979437","nit":"826-XX","supplier_name":"DGNET LTD","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-15 16:15:20"}
 {"supplier_id":"8979438","nit":"99877511","supplier_name":"MONZÓN,MARTINEZ,,NIDIA,MARICELA","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-15 16:15:22"}
 {"supplier_id":"8979439","nit":"112671063","supplier_name":"LOPEZ,JUAREZ,,SHERLEY,NOHEMI","current_status":"Inhabilitado","sanctions":[],"scraped_at":"2026-05-15 16:15:24"}
 {"supplier_id":"8979440","nit":"10291186K","supplier_name":"VÁSQUEZ,MORENTE,,KELIN,YESENIA","current_status":"Habilitado","sanctions":[],"scraped_at":"2026-05-15 16:15:26"}

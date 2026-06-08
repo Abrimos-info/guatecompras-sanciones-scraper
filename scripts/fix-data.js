@@ -5,7 +5,7 @@ const path = require('path');
 const readline = require('readline');
 
 const DATA_DIR = path.join(__dirname, '..', 'data');
-const NIT_RE = /^\((\d+K?)\)\s*-\s*(.+)$/;
+const NIT_RE = /^\((\d+K?|\d{2,3}-[^)]+)\)\s*-\s*(.+)$/;
 
 function localTimestamp(date) {
   const pad = n => String(n).padStart(2, '0');
@@ -89,7 +89,7 @@ async function main() {
 
   console.log(`\nDone. ${filesPatched} files patched.`);
   console.log(`  scraped_at added: ${totalSa}`);
-  console.log(`  nit/supplier_name fixed: ${totalNit}`);
+  console.log(`  nit/supplier_name fixed (K-suffix + foreign ID): ${totalNit}`);
 }
 
 main().catch(err => { console.error(err); process.exit(1); });
