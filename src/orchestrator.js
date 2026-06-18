@@ -68,17 +68,27 @@ async function scrapeRangeToDir(start, end, dir) {
 
   const total = end - start + 1;
   let done = 0;
+  let pendingSkips = 0;
+
+  function flushSkips() {
+    if (pendingSkips > 0) {
+      process.stdout.write('\n');
+      pendingSkips = 0;
+    }
+  }
 
   for (let id = start; id <= end; id++) {
     done++;
-    const progress = `[${done}/${total}] ID ${id}`;
+    const progress = `[${done}/${total}]`;
 
     if (scraped.has(id)) {
-      log(`${progress}: already scraped, skipping`);
+      pendingSkips++;
+      process.stdout.write(`\r${progress} skipping ${pendingSkips} already-scraped ID(s)...`);
       continue;
     }
 
-    logStart(`${progress}: `);
+    flushSkips();
+    logStart(`${progress} ID ${id}: `);
     try {
       const result = await scrapeSupplier(id, { delay: true });
       const file = bucketPath(id, dir);
@@ -97,6 +107,7 @@ async function scrapeRangeToDir(start, end, dir) {
     }
   }
 
+  flushSkips();
   log(`Done. Scraped ${done - skipCount} new IDs out of ${total} requested.`);
 }
 
